@@ -6,8 +6,8 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 
-Message.create(message_me: "Hey, you! I was just thinking about the fun times we've had together. It's time we create some new memories. What do you say to a little adventure soon?")
-Message.create(message_me: "Greetings, buddy! I hope you're doing well. Let's not wait for a special occasion to hang out. How about a spontaneous get-together this weekend?")
-Message.create(message_me: "Hello, my dear friend! I just wanted to drop by and say that I appreciate having you in my life. Let's make time for a movie night or dinner soon.")
-Message.create(message_me: "Hi friend! I hope this message brings a smile to your face. I've missed our hilarious conversations. Let's chat soon!")
-Message.create(message_me: "Hey there! It's been way too long since we caught up. How's life treating you? Let's plan a coffee date soon.")
+Message.create(message_me: "Wishing you a day filled with joy, laughter, and all the things that make you smile. Happy birthday!")
+Message.create(message_me: "Another year older, another year wiser. May your birthday be as amazing as you are!")
+Message.create(message_me: "Here's to another year of adventures, laughter, and unforgettable moments. Happy birthday!")
+Message.create(message_me: "May your birthday be the start of a new, wonderful chapter in your life. Cheers to a fantastic year ahead!")
+Message.create(message_me: "Sending you warm wishes and big hugs on your birthday. May it be a day to remember!")
